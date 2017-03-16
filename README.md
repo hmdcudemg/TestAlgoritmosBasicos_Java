@@ -1,7 +1,16 @@
 # Test de Algoritmos Básicos
 
-##Descripción
+## Descripción
+En este repositorio se implementaran algoritmos de Búsqueda y Ordenación en diferentes lenguajes de programacion.
 
-##Algoritmos a Implementar
+## Algoritmos a Implementar
+- Búsqueda
+    - Búsqueda Lineal
+    - Búsqueda Binaria
+- Ordenación
+    - Ordenación por Selección
+    - Ordenacion por Inserción
+    - Ordenacion por Combinación
 
-##Lenguajes Utilizados
+## Lenguajes Utilizados
+- Java
