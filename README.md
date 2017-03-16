@@ -5,12 +5,12 @@ En este repositorio se implementaran algoritmos de Búsqueda y Ordenación en di
 
 ## Algoritmos a Implementar
 - Búsqueda
-    -[X] Búsqueda Lineal
-    -[ ] Búsqueda Binaria
+    - [X] Búsqueda Lineal
+    - [ ] Búsqueda Binaria
 - Ordenación
-    -[ ] Ordenación por Selección
-    -[ ] Ordenacion por Inserción
-    -[ ] Ordenacion por Combinación
+    - [ ] Ordenación por Selección
+    - [ ] Ordenacion por Inserción
+    - [ ] Ordenacion por Combinación
 
 ## Lenguajes Utilizados
 - Java
